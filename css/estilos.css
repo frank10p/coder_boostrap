@@ -1,3 +1,18 @@
-*{
-    background-color: aqua !important;
+.pie{
+    margin: 30pc;
+    padding-right: 30px;
+    width: 100%;
+    display: flex;
+}
+.pie a{
+   position: relative !important;
+   display:block;
+   background-color: aqua !important;
+   width: 50px;
+   height: 50px;
+   border-radius: 50%;
+   justify-content: center;
+   align-items: center;
+   box-shadow: 0px 6px 5px rgb(0,0, 0.5);
+
 }
